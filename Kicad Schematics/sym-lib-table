@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2021-05-15_13-10-59)(type Legacy)(uri ${KIPRJMOD}/library/ul_PLMR50410XDBVR/KiCAD/2021-05-15_13-10-59/2021-05-15_13-10-59.lib)(options "")(descr ""))
+  (lib (name Project)(type Legacy)(uri ${KIPRJMOD}/library/Project.lib)(options "")(descr ""))
+)

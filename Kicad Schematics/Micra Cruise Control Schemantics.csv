@@ -1,0 +1,30 @@
+Reference, Quantity, Value, Footprint, Datasheet, LCSC no, MPN
+,,,,,,
+C1 ,1,10uF,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~,,JMK316BJ106KL-T
+C2 C3 ,2,100nF,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~,,CC1206KRX7R9BB104
+C4 ,1,22uF,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~,,JMK316BJ226KL-T
+C5 C6 ,2,2.2uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~,C357599,
+C7 C8 ,2,100uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~,C47891,
+D1 ,1,1N4004,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,C331630,
+D2 D3 D6 D11 D12 ,5,SMBJ17A,Diode_SMD:D_SMB_Handsoldering,,C353382,
+D4 D5 D7 D8 D13 D14 ,6,SMAJ6.0A,Diode_SMD:D_SMA_Handsoldering,,C693555,
+D9 D10 ,2,SMBJ22A,Diode_SMD:D_SMA_Handsoldering,,C440288,
+F1 ,1,150mA,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~,C369153,
+K1 K2 ,2,G6S-2,Relay_SMD:Relay_DPDT_Omron_G6S-2F,http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf,,G6S-2F DC5
+L1 ,1,4.7uH,Inductor_SMD:L_7.3x7.3_H3.5,~,,YPRH0703-4R7M
+Q1 ,1,2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,C305395,
+Q2 ,1,2N7000,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,C232838,
+R17 R19 R20 R21 ,4,270Ω,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4J0271T5E
+R22 R25 ,2,4.98k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F4991T5E
+R23 R24 ,2,2.49k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F2491T5E
+R26 R1 ,1,30.9k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F3092T5E
+R27 ,1,30Ω,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4J0300T5E
+R3 ,1,5kΩ,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F4991T5E
+R4 R5 R6 R7 R8 R11 R15 R16 R18 ,9,1kΩ,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F1001T5E
+R9 R10 R12 R13 R14 R2,6,10kΩ,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F1002T5E
+U1 ,1,TPS56339DDC,Package_TO_SOT_SMD:TSOT-23-6,https://www.ti.com/lit/ds/symlink/tps56339.pdf,,TPS56339DDCR
+U2 ,1,LM339,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,https://www.st.com/resource/en/datasheet/lm139.pdf,C71036,
+U3 ,1,LM358,Package_SO:SOP-8_3.76x4.96mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm2904-n.pdf,C74525,
+U4 ,1,NL7SZ57DFT2G,Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering,,C94398,NL7SZ57DFT2G
+,,,,,,
+RX,1,100kΩ,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,,1206W4F1003T5E
